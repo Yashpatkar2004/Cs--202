@@ -1,7 +1,7 @@
-a=12
-b=1
-c = a+b
-if c ==13:
-    print("Answer is 13")
-else:
-    print("wrong")
+a=12 '''a is variable 1'''
+b=1  '''b is variable 2 '''
+c = a+b '''c is variable which holds answer'''
+if c ==13: ''' case if ans is right'''
+    print("Answer is 13") '''if it right'''
+else:'''or'''
+    print("wrong")'''wrong'''
